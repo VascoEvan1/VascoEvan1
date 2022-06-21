@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VascoEvan1
-- 👀 I’m interested in coding 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me vascoevan@gmail.com 
 
 <!---
